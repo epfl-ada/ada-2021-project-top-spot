@@ -8,12 +8,12 @@ Brexit was the withdrawal of the United Kingdom from the European Union. The Uni
 -Sentimental analysis
 
 
-- Spectral Clustering for speakers and to different subclasses professions, news' opinion, over time
+-Spectral Clustering for speakers and to different subclasses professions, news' opinion, over time
 
 
 -Word cloud for looking at the most used features
 
 
-- LDA and n grams for defining the topics.
+-LDA and n grams for defining the topics.
 
 
