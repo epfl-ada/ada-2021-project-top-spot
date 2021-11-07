@@ -17,4 +17,4 @@ Brexit was the withdrawal of the United Kingdom from the European Union. The Uni
 -LDA and n grams for defining the topics.
 
 
-![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Project%20Milestone.png)
+![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/timeline.png)
