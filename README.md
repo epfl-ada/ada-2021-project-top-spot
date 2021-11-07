@@ -11,6 +11,8 @@ Brexit was the withdrawal of the United Kingdom from the European Union. The Uni
 5. Proposed Timeline
 ![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Timeline.png)
 
+6. Organization within the team: A list of internal milestones up until project Milestone 3
+
 | Task Name                                                    | Responsible  Member                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Brain storm and set the topic of the project                 | All team members                                             |
@@ -26,5 +28,3 @@ Brexit was the withdrawal of the United Kingdom from the European Union. The Uni
 | Set the skeleton of website                                  | All team members                                             |
 | Add the data visualisation to the website                    | Each member responsible for the part they were assgined  above |
 | Refine the website                                           | All team members                                             |
-6. Organization within the team: A list of internal milestones up until project Milestone 3
-(add a table)
