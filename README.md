@@ -71,6 +71,6 @@ A list of internal milestones up until project Milestone 3
 | Add the data visualisation to the website                    | Each member responsible for the part they were assgined  above |
 | Refine the website                                           | All team members                                             |
 
-- Questions for TAs :
+### 7. Questions for TAs :
 	- Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
 	- Can we use the result of the sentiment analysis to determine if a speaker supports Brexit or not?
