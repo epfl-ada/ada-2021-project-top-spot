@@ -6,27 +6,48 @@ Brexit was the withdrawal of the United Kingdom from the European Union. The Uni
 
 ### 2. Research Questions: 
 A list of research questions you would like to address during the project.
-- When exactly and how did they start talking about Brexit? Who started? How did the speech change?
-SPECIFIC: We focused on attitudes expressed by the news.
-- By speakers (professions, sentiment)
-- How many quotations are related to Brexit?
-	- How does the number of quotations change over time/trend?  
-	- Who are active speakers related to this topic?
-	- What are the top reasons that they support or are against Brexit?
-	- Opinions Pre and post-Brexit?
-	- By news (attitudes: against or support)
-- END: How some aspects ( economics, politics, science etc) changed with Brexit
+- The media's coverage of Brexit from 2015 to 2020 considering data in Quotebank:
+	1. When did the media start to mention Brexit? How many quotations are related to Brexit? 
+	2. How did the number of quotations change over time?
+- Media views towards Brexit.:
+	1. Which media have relayed the information the most? 
+	2. What is the country of origin of these media? 
+	3. What media and websites tend to have positive or negative statements towards the situation? 
+- Who issued these quotes, and what were the main opinions:
+	1. How many active speakers are mentioned? 
+	2. What are the main topics discussed? 
+	3. What were their professions? 
+	4. Where do they come from? 
+	5. How has the number of active speakers changed over the different periods of Brexit? 
+	6. What is their sentiment about the situation, content or not content, independently of their opinion on pro or against Brexit?  
+	7. Did they change their perception during this period? 
+	8. How are the different sentiments of the speakers distributed by countries?
 
 ### 3. Proposed additional datasets 
 
-(To get additional attributes(topic, profession, country, gender, nationality..), we will be using Wikidata and/or Beautiful soup. We will use Wikidata for occurrences of research for the word BREXIT in Google. We also found an article: "Analyzing Brexit’s impact using sentiment analysis and topic modeling on Twitter discussion" from Haider and al., we may need to use some of their analysis but they don't provide code.)
+- Add more attributes to the data (topic, profession, country, gender, nationality..)
+
+	- [Speaker attributes dataset](https://drive.google.com/drive/folders/1VAFHacZFh0oxSxilgNByb1nlNsqznUf0) provided by ADA teaching group. 
+- Using beautiful soup to extract the country of the domain through this source.
+
 ### 4. Methods 
 
-* Sentimental analysis, Spectral Clustering, Word cloud 
-* Spectral Clustering: speakers and to different subclasses professions, news' opinion, over time
-* Word cloud of the sentiments and words used.
-* LDA and Ngrams to identify the main topics discussed.
+- **Data collection:**
+  To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs. 
 
+- **Media Coverage Analysis:**
+  We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
+
+- **Media SentimentsViews towards Brexit Analysis::**
+	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media(which is defined as “domain” in our current dataset)  towards Brexit. What’s more, we could compare the sentiment of the media over different countries.
+- **Analysis of who delivered the quotes and what the prominent opinions were:**
+	- Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers for pro-Brexit/anti-Brexit.
+	-  Applying spectral Clustering for speakers and to different subclass professions over time. 
+	-  Using the n-garms or LDA topic modeling (not sure which one), we want to identify the top topic to find some top reasons that they are pro-Brexit or anti-Brexit. 
+	-  Visualizing the change of predominant opinions pro-Brexit and anti-Brexit and the central topics and points mentioned
+
+-  **Hypothesis of media’s influence on speakers:**
+	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies towards negative groups.
 
 ### 5. Proposed Timeline
 ![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Timeline.png)
