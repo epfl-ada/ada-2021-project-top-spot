@@ -7,28 +7,28 @@ Brexit was the withdrawal of the United Kingdom from the European Union. The Uni
 ### 2. Research Questions: 
 A list of research questions you would like to address during the project.
 - The media's coverage of Brexit from 2015 to 2020 considering data in Quotebank:
-	1. When did the media start to mention Brexit? How many quotations are related to Brexit? 
-	2. How did the number of quotations change over time?
+	- When did the media start to mention Brexit? How many quotations are related to Brexit? 
+	- How did the number of quotations change over time?
 - Media views towards Brexit.:
-	1. Which media have relayed the information the most? 
-	2. What is the country of origin of these media? 
-	3. What media and websites tend to have positive or negative statements towards the situation? 
+	- Which media have relayed the information the most? 
+	- What is the country of origin of these media? 
+	- What media and websites tend to have positive or negative statements towards the situation? 
 - Who issued these quotes, and what were the main opinions:
-	1. How many active speakers are mentioned? 
-	2. What are the main topics discussed? 
-	3. What were their professions? 
-	4. Where do they come from? 
-	5. How has the number of active speakers changed over the different periods of Brexit? 
-	6. What is their sentiment about the situation, content or not content, independently of their opinion on pro or against Brexit?  
-	7. Did they change their perception during this period? 
-	8. How are the different sentiments of the speakers distributed by countries?
+	- How many active speakers are mentioned? 
+	- What are the main topics discussed? 
+	- What were their professions? 
+	- Where do they come from? 
+	- How has the number of active speakers changed over the different periods of Brexit? 
+	- What is their sentiment about the situation, content or not content, independently of their opinion on pro or against Brexit?  
+	- Did they change their perception during this period? 
+	- How are the different sentiments of the speakers distributed by countries?
 
 ### 3. Proposed additional datasets 
 
 - Add more attributes to the data (topic, profession, country, gender, nationality..)
 
 	- [Speaker attributes dataset](https://drive.google.com/drive/folders/1VAFHacZFh0oxSxilgNByb1nlNsqznUf0) provided by ADA teaching group. 
-- Using beautiful soup to extract the country of the domain through this source.
+- Using beautiful soup to extract the country of the domain through [this source](https://icannwiki.org/Country_code_top-level_domain) .
 
 ### 4. Methods 
 
@@ -70,3 +70,7 @@ A list of internal milestones up until project Milestone 3
 | Set the skeleton of website                                  | All team members                                             |
 | Add the data visualisation to the website                    | Each member responsible for the part they were assgined  above |
 | Refine the website                                           | All team members                                             |
+
+- Questions for TAs :
+	- Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
+	- Can we use the result of the sentiment analysis to determine if a speaker supports Brexit or not?
