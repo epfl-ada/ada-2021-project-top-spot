@@ -72,5 +72,5 @@ A list of internal milestones up until project Milestone 3
 | Refine the website                                           | All team members                                             |
 
 ### 7. Questions for TAs :
-	- Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
-	- Can we use the result of the sentiment analysis to determine if a speaker supports Brexit or not?
+- Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
+- Can we use the result of the sentiment analysis to determine if a speaker supports Brexit or not?
