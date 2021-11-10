@@ -1,7 +1,7 @@
 # ada-2021-project-top-spot
 Topic: Brexit, a story told by the news
 
-1. Abstract:
+### 1. Abstract:
 
 Brexit was the withdrawal of the United Kingdom from the European Union. The United Kingdom is the first and so far the only member state to have left the EU, after 47 years of having been a part of the union. It is an event that has made people very vocal and different opinions have been shared, particularly in the media. In this project, we want to put this event under the microscope and investigate several aspects of it. First, we want to do a descriptive analysis: When did we start mentioning Brexit, which words are used the most in our database, which are the main authors of the quotes, which media have relayed the information the most, which words were mostly searched on Google. 
 
