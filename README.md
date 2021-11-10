@@ -9,7 +9,7 @@ A list of research questions you would like to address during the project.
 - The media's coverage of Brexit from 2015 to 2020 considering data in Quotebank:
 	- When did the media start to mention Brexit? How many quotations are related to Brexit? 
 	- How did the number of quotations change over time?
-- Media views towards Brexit.:
+- Media views towards Brexit:
 	- Which media have relayed the information the most? 
 	- What is the country of origin of these media? 
 	- What media and websites tend to have positive or negative statements towards the situation? 
@@ -38,12 +38,12 @@ A list of research questions you would like to address during the project.
 - **Media Coverage Analysis:**
   We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
 
-- **Media SentimentsViews towards Brexit Analysis::**
+- **Media SentimentsViews towards Brexit Analysis:**
 	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media(which is defined as “domain” in our current dataset)  towards Brexit. What’s more, we could compare the sentiment of the media over different countries.
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
 	- Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers for pro-Brexit/anti-Brexit.
 	-  Applying spectral Clustering for speakers and to different subclass professions over time. 
-	-  Using the n-garms or LDA topic modeling (not sure which one), we want to identify the top topic to find some top reasons that they are pro-Brexit or anti-Brexit. 
+	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that they are pro-Brexit or anti-Brexit. 
 	-  Visualizing the change of predominant opinions pro-Brexit and anti-Brexit and the central topics and points mentioned
 
 -  **Hypothesis of media’s influence on speakers:**
