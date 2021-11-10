@@ -65,7 +65,6 @@ A list of internal milestones up until project Milestone 3
 | Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | Chen Jingrong                                                |
 | Spectral Clustering                                          | Haoyu Sheng                                                  |
 | Sentimental Analysis                                         | Ben Hassen Mahdi                                             |
-| Impact analysis on financial field                           | Chen Jingrong; Haoyu Sheng                                   |
 | Find the template of website                                 | All team members                                             |
 | Set the skeleton of website                                  | All team members                                             |
 | Add the data visualisation to the website                    | Each member responsible for the part they were assgined  above |
