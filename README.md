@@ -29,7 +29,7 @@ SPECIFIC: We focused on attitudes expressed by the news.
 
 
 ### 5. Proposed Timeline
-![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Timeline.png)
+![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/Timeline.png)
 
 ### 6. Organization within the team:
 A list of internal milestones up until project Milestone 3
