@@ -67,7 +67,7 @@ A list of internal milestones up until project Milestone 3
 | Sentimental Analysis                                         | Ben Hassen Mahdi                                             |
 | Find the template of website                                 | All team members                                             |
 | Set the skeleton of website                                  | All team members                                             |
-| Add the data visualisation to the website                    | Each member responsible for the part they were assgined  above |
+| Add the data visualisation to the website                    | Each member responsible for the part they were assigned  above |
 | Refine the website                                           | All team members                                             |
 
 ### 7. Questions for TAs :
