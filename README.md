@@ -1,4 +1,4 @@
-# Topic: Brexit, a story told by the news
+# Brexit under the lens
 
 ### 1. Abstract:
 
@@ -50,7 +50,7 @@ A list of research questions you would like to address during the project.
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies towards negative groups.
 
 ### 5. Proposed Timeline
-![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/Timeline.png)
+![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/proposed_timeline.png)
 
 ### 6. Organization within the team:
 A list of internal milestones up until project Milestone 3
