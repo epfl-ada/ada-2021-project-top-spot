@@ -50,7 +50,7 @@ A list of research questions you would like to address during the project.
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies towards negative groups.
 
 ### 5. Proposed Timeline
-![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/TimelineUpdate.png)
+![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/Timeline.png)
 
 ### 6. Organization within the team:
 A list of internal milestones up until project Milestone 3
@@ -65,7 +65,7 @@ A list of internal milestones up until project Milestone 3
 | LDA and ngrams for defining the topics                       | Agnaou Zineb                                                 |
 | Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | Chen Jingrong                                          |
 | Spectral Clustering                                          | Haoyu Sheng                                                  |
-| Summarizing inferences                                       | All team members                                             | 
+| Summarizing inferences                                       | All team members                                             |
 | Find the template of website                                 | All team members                                             |
 | Set the skeleton of website                                  | All team members                                             |
 | Add the data visualisation to the website                    | Each member responsible for the part they were assigned  above |
