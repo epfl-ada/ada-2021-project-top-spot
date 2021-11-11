@@ -61,10 +61,11 @@ A list of internal milestones up until project Milestone 3
 | Preprocess the dataset                                       | Chen Jingrong; Ben Hassen Mahdi                              |
 | Performing initial analysis                                  | Agnaou Zineb; Haoyu Sheng                                    |
 | Writing README file                                          | All team members                                             |
+| Sentiment Analysis                                           | Ben Hassen Mahdi                                             |
 | LDA and ngrams for defining the topics                       | Agnaou Zineb                                                 |
-| Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | Chen Jingrong                                                |
+| Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | Chen Jingrong                                          |
 | Spectral Clustering                                          | Haoyu Sheng                                                  |
-| Sentimental Analysis                                         | Ben Hassen Mahdi                                             |
+| Summarizing inferences                                       | All team members                                             | 
 | Find the template of website                                 | All team members                                             |
 | Set the skeleton of website                                  | All team members                                             |
 | Add the data visualisation to the website                    | Each member responsible for the part they were assigned  above |
