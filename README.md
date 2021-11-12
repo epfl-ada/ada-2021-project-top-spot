@@ -44,10 +44,10 @@ A list of research questions you would like to address during the project.
 	-  Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers and their views.
 	-  Applying spectral Clustering for speakers and to different subclass professions over time. 
 	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that motivate their opinions. 
-	-  Visualizing the change of predominant opinions and the central topics and points mentioned
+	-  Visualizing the change of predominant opinions and the central topics and points mentioned.
 
 -  **Hypothesis of media’s influence on speakers:**
-	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies towards negative groups.
+	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies to the negative attitudes.
 
 ### 5. Proposed Timeline
 ![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/proposed_timeline.png)
