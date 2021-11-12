@@ -38,13 +38,13 @@ A list of research questions you would like to address during the project.
 - **Media Coverage Analysis:**
   We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
 
-- **Media SentimentsViews towards Brexit Analysis:**
+- **Media Sentiments towards Brexit Analysis:**
 	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media(which is defined as “domain” in our current dataset)  towards Brexit. What’s more, we could compare the sentiment of the media over different countries.
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
-	- Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers for pro-Brexit/anti-Brexit.
+	-  Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers and their views.
 	-  Applying spectral Clustering for speakers and to different subclass professions over time. 
-	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that they are pro-Brexit or anti-Brexit. 
-	-  Visualizing the change of predominant opinions pro-Brexit and anti-Brexit and the central topics and points mentioned
+	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that motivate their opinions. 
+	-  Visualizing the change of predominant opinions and the central topics and points mentioned
 
 -  **Hypothesis of media’s influence on speakers:**
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies towards negative groups.
