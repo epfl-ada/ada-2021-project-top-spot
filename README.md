@@ -39,7 +39,7 @@ A list of research questions you would like to address during the project.
   We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
 
 - **Media Sentiments towards Brexit Analysis:**
-	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media(which is defined as “domain” in our current dataset)  towards Brexit. What’s more, we could compare the sentiment of the media over different countries.
+	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. What’s more, we could compare the sentiment of the media over different countries.
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
 	-  Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers and their views.
 	-  Applying spectral Clustering for speakers and to different subclass professions over time. 
