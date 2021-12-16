@@ -40,7 +40,7 @@ A list of research questions you would like to address during the project.
  	 - We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
 
 - **Media Sentiments towards Brexit Analysis:**
-	- We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
+	-  We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
 	
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
 	-  Using the n-garms and LDA topic modeling, we want to identify the top topics to find some of the reasons that motivated their opinions. 
