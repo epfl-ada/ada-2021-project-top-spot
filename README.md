@@ -40,13 +40,12 @@ A list of research questions you would like to address during the project.
   We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
 
 - **Media Sentiments towards Brexit Analysis:**
-	We will perform sentiment analysis on all quotations. To do so we will be using the results of three packages: Textblob, SentimentIntensityAnalyze and Flair. We have then taken the median of the three resulting polarities. To subsequently decide on the thresholds to choose for classifying the emotions (Positive, Negative, or Neutral), we manually labeled 100 quotes and selected the thresholds accordingly. It is critical to note that the resulting emotion does not reflect the direct view or perception of the Brexit, i.e. pro or con. The resulting emotion is based on the tone of the quote. As an example (fabricated), the two quotes: "Brexit is crucial, staying in the union would be a catastrophe, a suicide" and "Staying in the union is crucial, leaving would be a catastrophe, a suicide" will both be assigned a negative emotion by design even though they stand for two different opinions. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
+	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
 	
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
 	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that motivate their opinions. 
 	-  Visualizing the change of predominant opinions and the central topics and points mentioned.
 	
-
 -  **Hypothesis of media’s influence on speakers:**
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies to the negative attitudes.
 
