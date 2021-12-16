@@ -34,16 +34,16 @@ A list of research questions you would like to address during the project.
 ### 4. Methods 
 
 - **Data collection:**
-  To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs. 
+  - 	To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs. 
 
 - **Media Coverage Analysis:**
-  We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
+ 	 - We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
 
 - **Media Sentiments towards Brexit Analysis:**
-	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
+	- We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
 	
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
-	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that motivate their opinions. 
+	-  Using the n-garms and LDA topic modeling, we want to identify the top topics to find some of the reasons that motivated their opinions. 
 	-  Visualizing the change of predominant opinions and the central topics and points mentioned.
 	
 -  **Hypothesis of media’s influence on speakers:**
