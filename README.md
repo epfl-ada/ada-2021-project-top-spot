@@ -13,6 +13,7 @@ A list of research questions you would like to address during the project.
 	- Which media have relayed the information the most? 
 	- What is the country of origin of these media? 
 	- What media and websites tend to have positive or negative statements towards the situation? 
+	- How sentiments of quotations revealed by top 10 medias change over recent years?
 - Who issued these quotes, and what were the main opinions:
 	- How many active speakers are mentioned? 
 	- What are the main topics discussed? 
@@ -40,19 +41,25 @@ A list of research questions you would like to address during the project.
 
 - **Media Sentiments towards Brexit Analysis:**
 	We will perform sentiment analysis on all quotations. Then we are going to visualise the overall sentiment of each media, defined as “domain” in our current dataset, towards Brexit. Furthermore, we could compare the sentiment of the media over different countries.
+	
 - **Analysis of who delivered the quotes and what the prominent opinions were:**
-	-  Performing the sentimental analysis on quotations by using VADER Python library to identify active speakers and their views.
-	-  Applying spectral Clustering for speakers and to different subclass professions over time. 
+	-  Sentiment analysis using the results of three packages: Textblob, SentimentIntensityAnalyze and Flair. We have then taken the median of the three resulting polarities. To subsequently decide on the thresholds to choose for classifying the emotions (Positive, Negative, or Neutral), we manually labeled 100 quotes and selected the thresholds accordingly. It is critical to note that the resulting emotion does not reflect the direct view or perception of the Brexit, i.e. pro or con. The resulting emotion is based on the tone of the quote. As an example (fabricated), the two quotes: "Brexit is crucial, staying in the union would be a catastrophe, a suicide" and "Staying in the union is crucial, leaving would be a catastrophe, a suicide" will both be assigned a negative emotion by design even though they stand for two different opinions.
 	-  Using the n-garms and LDA topic modeling, we want to identify the top topic to find some top reasons that motivate their opinions. 
 	-  Visualizing the change of predominant opinions and the central topics and points mentioned.
+	-  Spectral clustering was applied for speakers and for different subclasses of occupation over time.  We first encoded the category features-nationality, polarity, and occupation-using two methods: hot encoding and target encoding. We then used the T-SNE method to compress the features and generate tsne_x,tesn_y so that they could be plotted in 2D or 3D graphs. We obtained some plots and results, but we will leave the final interpretation and more advanced implementation of the T-SNE approach to be done as a future improvement.
 
 -  **Hypothesis of media’s influence on speakers:**
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies to the negative attitudes.
 
-### 5. Proposed Timeline
+### 5. Organisation of github:
+
+### 6. Website/ Data story:
+A more concise version of our analysis and results will be available on our website. To have access to it, please click on the following link. 
+
+### 7. Proposed Timeline
 ![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/proposed_timeline.png)
 
-### 6. Organization within the team:
+### 8. Organization within the team:
 A list of internal milestones up until project Milestone 3
 
 | Task Name                                                    | Responsible  Member                                          |
@@ -71,6 +78,11 @@ A list of internal milestones up until project Milestone 3
 | Add the data visualisation to the website                    | Each member responsible for the part they were assigned  above |
 | Refine the website                                           | All team members                                             |
 
-### 7. Questions for TAs :
+
+### 9. Future Improvements :
+Applying spectral Clustering for speakers and to different subclass professions over time. 
+
+### 10. (OLD )Questions for TAs :
 - Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
 - Can we use the result of the sentiment analysis to determine if a speaker supports Brexit or not?
+
