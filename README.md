@@ -50,6 +50,7 @@ A list of research questions you would like to address during the project.
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies to the negative attitudes.
 
 ### 5. Organisation of github:
+- `LDA.ipynb` (besoin ) 
 
 ### 6. Website/ Data story:
 A more concise version of our analysis and results will be available on our website. To have access to it, please click on the following link. 
