@@ -50,13 +50,14 @@ A list of research questions you would like to address during the project.
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies to the negative attitudes.
 
 ### 5. Organisation of github:
-- `DataProcessing_EDA.ipynb`: Contains essentially the results of the previous for Milestone 2.  Here you will find details of how we processed the data, as well as all the relevant features. You will also find some preliminary plots and a preview of the results for the Sentiment Analysis.
-- `LDA.ipynb`: Since the packages used to perform the part with LDA require specific package versions that are not uniform with the rest of our analysis, we were compelled to put this part in a different notebook. Unfortunately, the notebook does not allow to see the interactive results. We invite you to consult [this link]( https://colab.research.google.com/drive/17yDMfJ9TAXIvVnlL3YPpR7tRVn-bxfjf#scrollTo=e852b175) which directs you to the associated Colab where you can visualize all the results. 
-- Noticing the big size of our notebook containing the whole analysis, We just thought we could divide it into 3 notebooks as below:
-- `Analysis_1_MediaCoverage.ipynb`: Contains the media's coverage analysis.
-- `Analysis_2_MediaViews.ipynb`: Contains the media views towards Brexit.
-- `Analysis_3_SpeakersViews.ipynb`: Contains the speakers views towards Brexit.
+The notebook containing all our analysis exceeded the 25 MB allowed. Even if we halved it, we could not see a preview of the code. We then thought that we could divide it in three parts following our three main sections. We also kept the data processing notebook that concerned milestone 2. Two notebooks have also been added, details can be found below:
 
+- `[DataProcessing_EDA.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/DataProcessing_EDA.ipynb) `: Contains essentially the results of the previous for Milestone 2.  Here you will find details of how we processed the data, as well as all the relevant features. You will also find some preliminary plots and a preview of the results for the Sentiment Analysis.
+- `[Analysis_1_MediaCoverage.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Analysis_1_MediaCoverage.ipynb)`: answering questions from the first Section: The media's coverage of Brexit from 2015 to 2020 considering data in Quotebank. 
+- `[Analysis_2_MediaViews.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Analysis_2_MediaViews.ipynb)`: answering questions from the second Section: Media views towards Brexit. 
+- `[Analysis_3_SpeakersViews.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Analysis_3_SpeakersViews.ipynb)`: answering questions from the third Section: Who issued these quotes, and what were the main opinions. 
+- `[LDA.ipynbb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/LDA.ipynb)`: Since the packages used to perform the part with LDA require specific package versions that are not uniform with the rest of our analysis, we were compelled to put this part in a different notebook. Unfortunately, the notebook does not allow to see the interactive results. We invite you to consult [this link]( https://colab.research.google.com/drive/17yDMfJ9TAXIvVnlL3YPpR7tRVn-bxfjf#scrollTo=e852b175) which directs you to the associated Colab where you can visualize all the results. 
+- `[FutureImprovements.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/FutureImprovements.ipynb)`
 ### 6. Website/ Data story:
 A more concise version of our analysis and results will be available on our website. To have access to it, please click on the following link. 
 
