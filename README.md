@@ -57,7 +57,8 @@ The notebook containing all our analysis exceeded the 25 MB allowed. Even if we 
 - [Analysis_2_MediaViews.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Analysis_2_MediaViews.ipynb): answering questions from the second Section: Media views towards Brexit. 
 - [Analysis_3_SpeakersViews.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/Analysis_3_SpeakersViews.ipynb): answering questions from the third Section: Who issued these quotes, and what were the main opinions. 
 - [LDA.ipynbb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/LDA.ipynb): Since the packages used to perform the part with LDA require specific package versions that are not uniform with the rest of our analysis, we were compelled to put this part in a different notebook. Unfortunately, the notebook does not allow to see the interactive results. We invite you to consult [this link]( https://colab.research.google.com/drive/17yDMfJ9TAXIvVnlL3YPpR7tRVn-bxfjf#scrollTo=e852b175) which directs you to the associated Colab where you can visualize all the results. 
-- [FutureImprovements.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/FutureImprovements.ipynb)
+- [FutureImprovements.ipynb](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/FutureImprovements.ipynb): contains our Spectral Clustering Analysis. Since the File is very big, we can't see the preview in Github. You can access the associated [Colab](https://colab.research.google.com/drive/1PC8Ht0AmwjlDcsgtEIF9JuQ_wKUaDEJn) to see the plots. 
+
 ### 6. Website/ Data story:
 A more concise version of our analysis and results will be available on our website. To have access to it, please click on the following link. 
 
