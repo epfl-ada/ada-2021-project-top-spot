@@ -34,7 +34,7 @@ A list of research questions you would like to address during the project.
 ### 4. Methods 
 
 - **Data collection:**
-  - 	To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs. 
+	  - To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs. 
 
 - **Media Coverage Analysis:**
  	 - We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
