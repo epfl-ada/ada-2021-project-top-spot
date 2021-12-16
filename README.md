@@ -50,7 +50,7 @@ A list of research questions you would like to address during the project.
 	- We want to discuss our results in the previous two points: the analysis of media sentiment towards Brexit and the speaker analysis. In more specific terms, we want to relate the nationality ranking of speakers who have positive feelings towards Brexit with the country ranking of media outlets that show overall positive attitudes towards Brexit, and the same applies to the negative attitudes.
 
 ### 5. Organisation of github:
-- `DataProcessing_EDA.ipynb` contains essentially the results of the previous for Milestone 2.  Here you will find details of how we processed the data, as well as all the relevant features. You will also find some preliminary plots and a preview of the results.
+- `DataProcessing_EDA.ipynb` contains essentially the results of the previous for Milestone 2.  Here you will find details of how we processed the data, as well as all the relevant features. You will also find some preliminary plots and a preview of the results for the Sentiment Analysis.
 - `LDA.ipynb` (expliquer qu'on besoin de version différentes de librairies et du coup on met à part ) 
 - (maybe) on aura besoin de partager le fichier en plusieurs parties car il sera trop lourd pour s'afficher sur github
 
