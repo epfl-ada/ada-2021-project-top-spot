@@ -64,11 +64,7 @@ A more concise version of our analysis and results will be available on our webs
 ### 7. Future Improvements :
 -  Spectral clustering was applied for speakers and for different subclasses over time.  We first encoded the category features-nationality, polarity, and occupation-using two methods: hot encoding and target encoding. We then used the T-SNE method to compress the features and generate tsne_x,tesn_y so that they could be plotted in 2D or 3D graphs. We obtained some plots and results, but we will leave the final interpretation and more advanced implementation of the T-SNE approach to be done as a future improvement.
 
-
-### 8. (OLD)Proposed Timeline
-![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/proposed_timeline.png)
-
-### 9. (OLD)Organization within the team:
+### 8. Organization within the team:
 A list of internal milestones up until project Milestone 3
 
 | Task Name                                                    | Responsible  Member                                          |
@@ -88,6 +84,8 @@ A list of internal milestones up until project Milestone 3
 | Refine the website                                           | All team members                                             |
 
 
+### 9. (OLD)Proposed Timeline
+![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/proposed_timeline.png)
 
 ### 10. (OLD)Questions for TAs :
 - Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
