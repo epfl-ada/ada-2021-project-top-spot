@@ -60,10 +60,15 @@ A list of research questions you would like to address during the project.
 ### 6. Website/ Data story:
 A more concise version of our analysis and results will be available on our website. To have access to it, please click on the following link. 
 
-### 7. (OLD)Proposed Timeline
+
+### 7. Future Improvements :
+-  Spectral clustering was applied for speakers and for different subclasses over time.  We first encoded the category features-nationality, polarity, and occupation-using two methods: hot encoding and target encoding. We then used the T-SNE method to compress the features and generate tsne_x,tesn_y so that they could be plotted in 2D or 3D graphs. We obtained some plots and results, but we will leave the final interpretation and more advanced implementation of the T-SNE approach to be done as a future improvement.
+
+
+### 8. (OLD)Proposed Timeline
 ![alt text](https://github.com/epfl-ada/ada-2021-project-top-spot/blob/main/img/proposed_timeline.png)
 
-### 8. (OLD)Organization within the team:
+### 9. (OLD)Organization within the team:
 A list of internal milestones up until project Milestone 3
 
 | Task Name                                                    | Responsible  Member                                          |
@@ -72,19 +77,17 @@ A list of internal milestones up until project Milestone 3
 | Preprocess the dataset                                       | Chen Jingrong; Ben Hassen Mahdi                              |
 | Performing initial analysis                                  | Agnaou Zineb; Haoyu Sheng                                    |
 | Writing README file                                          | All team members                                             |
-| Sentiment Analysis                                           | Ben Hassen Mahdi                                             |
-| LDA and ngrams for defining the topics                       | Agnaou Zineb                                                 |
-| Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | Chen Jingrong                                          |
-| Spectral Clustering                                          | Haoyu Sheng                                                  |
-| Summarizing inferences                                       | All team members                                             |
+| Sentiment Analysis                                           | Agnaou Zineb                                             |
+| LDA and ngrams for defining the topics                       | Ben Hassen Mahdi                                              |
+| Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | All team members                                           |
+| Spectral Clustering                                          | Chen Jingrong                                                  |
+| Summarizing inferences                                       | Agnaou Zineb                                             |
 | Find the template of website                                 | All team members                                             |
 | Set the skeleton of website                                  | All team members                                             |
-| Add the data visualisation to the website                    | Each member responsible for the part they were assigned  above |
+| Add the data visualisation to the website                    | Chen Jingrong; Haoyu Sheng                                    |
 | Refine the website                                           | All team members                                             |
 
 
-### 9. Future Improvements :
--  Spectral clustering was applied for speakers and for different subclasses over time.  We first encoded the category features-nationality, polarity, and occupation-using two methods: hot encoding and target encoding. We then used the T-SNE method to compress the features and generate tsne_x,tesn_y so that they could be plotted in 2D or 3D graphs. We obtained some plots and results, but we will leave the final interpretation and more advanced implementation of the T-SNE approach to be done as a future improvement.
 
 ### 10. (OLD)Questions for TAs :
 - Could we change, either add or delete, some sections ? Depending on the information we find along,  on the workload and time available ?
