@@ -77,7 +77,7 @@ A list of internal milestones up until project Milestone 3
 | LDA and ngrams for defining the topics                       | Ben Hassen Mahdi                                              |
 | Simple data visualization  (Histograms, Scatter Plots, Word Cloud) | All team members                                           |
 | Spectral Clustering                                          | Chen Jingrong                                                  |
-| Summarizing inferences                                       | Agnaou Zineb                                             |
+| Summarizing inferences                                       | Agnaou Zineb; Ben Hassen Mahdi                                            |
 | Find the template of website                                 | All team members                                             |
 | Set the skeleton of website                                  | All team members                                             |
 | Add the data visualisation to the website                    | Chen Jingrong; Haoyu Sheng                                    |
