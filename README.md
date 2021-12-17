@@ -29,12 +29,13 @@ A list of research questions you would like to address during the project.
 - Add more attributes to the data (topic, profession, country, gender, nationality..)
 
 	- [Speaker attributes dataset](https://drive.google.com/drive/folders/1VAFHacZFh0oxSxilgNByb1nlNsqznUf0) provided by ADA teaching group. 
-- Using beautiful soup to extract the country of the domain through [this source](https://icannwiki.org/Country_code_top-level_domain) .
+- Using beautiful soup to extract the country of the domain through [this source](https://icannwiki.org/Country_code_top-level_domain).
+- For map plotting, we need the ISO-3166 alpha‑3 codes for all countries. So we extract part of csv from the [ISO-3166-Countries-with-Regional-Codes/all.csv](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv) file.
 
 ### 4. Methods 
 
 - **Data collection:**
-	- To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs. 
+	- To merge quotebank with the additional datasets, we have filtered those quotations related to Brexit by identifying possible keywords related to Brexit. We have already combined quotations with speaker attributes by joining with QIDs.  
 
 - **Media Coverage Analysis:**
  	 - We will perform descriptive analysis and visualize the results with scatter plots, histograms to show how the change of media attention to Brexit over time.
